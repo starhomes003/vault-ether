@@ -1,0 +1,21 @@
+.tooltipElement:before{border:10px solid transparent;border-right-color:#4e4763;content:"";height:0;left:-18px;position:absolute;top:35%;width:0}.legend-circle-1,.legend-circle-2,.legend-circle-3{background-color:#000;border-radius:50%;height:15px;margin:auto;width:100%}.legend-circle-1{background-color:#2775ca}.legend-circle-2{background-color:#182543}.legend-circle-3{background-color:#5ea2ec}.legend-label{align-items:start;display:flex}#legend-container{display:grid;gap:10px;padding:0 3%;text-align:left;width:100%;word-break:keep-all}#legend-container.usdc-legend{grid-template-columns:30% 30% 40%}#legend-container.euro-legend{grid-template-columns:1fr 1fr}.legend-item{display:grid;gap:8px;grid-template-columns:15px auto}#reserves-breakdown-chart a.chart-links{color:#29233b;display:inline-block;font-size:12.5px;font-weight:700;position:relative;text-transform:uppercase;white-space:nowrap}#reserves-breakdown-chart a.chart-links.active:after,#reserves-breakdown-chart a.chart-links:hover:after{transform:scaleX(1)}#reserves-breakdown-chart a.chart-links:after{background:linear-gradient(45deg,#ad87ff,#7192ff 57.55%,#1aa3ff);bottom:-5px;content:"";height:2px;left:0;position:absolute;transform:scaleX(0);transform-origin:0 0;transition:transform .3s;width:100%}#reserves-breakdown-chart .hide-data{display:none}#reserves-breakdown-chart .show-data{display:block}#reserves-breakdown-chart .chart-wrapper{margin:auto}#reserves-breakdown-chart .iss-red-column{border-left:1px solid grey}#reserves-breakdown-chart .balances-subheading span{font-size:16px;font-weight:400;letter-spacing:-.14px;text-align:center}#reserves-breakdown-chart .chartjs-wrapper{height:300px;margin:auto;max-width:100%;position:relative}#reserves-breakdown-chart .stat-row h3{color:#1894e8;font-weight:300;margin-bottom:0}@media screen and (max-width:991px){.balances-subheading{font-size:16px}#reserves-breakdown-chart .iss-red-column{border-left:0}#reserves-breakdown-chart .footnotes{padding-top:32px}}
+/*
+     FILE ARCHIVED ON 05:20:58 Sep 01, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:42:54 Sep 03, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 65.527
+  exclusion.robots: 0.164
+  exclusion.robots.policy: 0.156
+  cdx.remote: 0.055
+  esindex: 0.01
+  LoadShardBlock: 38.863 (3)
+  PetaboxLoader3.datanode: 55.994 (4)
+  load_resource: 79.775
+  PetaboxLoader3.resolve: 58.072
+*/
